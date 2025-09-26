@@ -11,7 +11,7 @@ tugas-js-pertemuan-6/
 ├── controller.js    # Controller dengan 3 function utama (Melihat, Menambah, Menghapus data)
 ├── main.js          # File untuk menjalankan aplikasi
 ├── package.json     # Konfigurasi project
-└── README.md        # Dokumentasi
+README.md            # Dokumentasi
 ```
 
 
