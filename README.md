@@ -7,8 +7,8 @@ Project ini adalah implementasi sistem manajemen data user menggunakan JavaScrip
 ## 📁 Struktur File
 ```
 tugas-js-pertemuan-6/
-├── data.js           # Berisi 10 data dalam bentuk Array of Object (nama, umur, alamat, email)
-├── controller.js     # Controller dengan 3 function utama (Melihat, Menambah, Menghapus data)
+├── data.js          # Berisi 10 data dalam bentuk Array of Object (nama, umur, alamat, email)
+├── controller.js    # Controller dengan 3 function utama (Melihat, Menambah, Menghapus data)
 ├── main.js          # File untuk menjalankan aplikasi
 ├── package.json     # Konfigurasi project
 └── README.md        # Dokumentasi
