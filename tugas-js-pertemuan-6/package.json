@@ -1,0 +1,21 @@
+{
+    "name": "tugas-js-pertemuan-6",
+    "version": "1.0.0",
+    "description": "Tugas JavaScript Pertemuan 6 - Manajemen Data User",
+    "main": "main.js",
+    "type": "module",
+    "scripts": {
+    "start": "node main.js",
+    "dev": "node main.js",
+    "test": "node controller.js"
+    },
+    "keywords": [
+    "javascript",
+    "array",
+    "object",
+    "crud",
+    "data-management"
+    ],
+    "author": "Student",
+    "license": "MIT"
+}
